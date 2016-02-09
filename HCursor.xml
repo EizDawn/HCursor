@@ -60,6 +60,9 @@
                                 <next>
                                   <block type="oled_drawtext" id="17">
                                     <field name="TEXT">Right</field>
+                                    <next>
+                                      <block type="movement_stop" id="34"></block>
+                                    </next>
                                   </block>
                                 </next>
                               </block>
